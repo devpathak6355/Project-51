@@ -1,0 +1,43 @@
+.designs{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.link{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu{
+    background-color: plum;
+    text-align: center;
+}
+
+.bodyImg{
+    background-color: gray;
+    color: black;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.item{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+}
+
+.designs img{
+    border:2px solid black;
+    border-radius: 50px;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: whitesmoke;
+}
